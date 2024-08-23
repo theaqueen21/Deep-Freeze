@@ -1,4 +1,6 @@
-# Deep Freeze: The Ultimate Reboot to Restore Solution
+# Deep Freeze Enterprise: The Ultimate Reboot to Restore Solution
+![Deep Freeze](https://github.com/user-attachments/assets/2b97a2e7-7058-4aa5-a3ea-2c4dc38d72a4)
+
 
 ## Introduction
 Deep Freeze is a patented system management and protection software developed by Faronics. It is designed to preserve the desired computer configuration by restoring the system to its original state upon every reboot. This makes it an essential tool for managing and protecting endpoints, particularly in environments like public workstations, educational institutions, and business settings where consistency and security are paramount.
