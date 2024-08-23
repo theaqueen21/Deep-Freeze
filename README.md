@@ -56,7 +56,7 @@ In the Workstations pane, the status of each workstation is clearly indicated as
 Deep Freeze can automate routine maintenance tasks, including Windows Updates. These tasks can be scheduled to run at specified times, reducing the need for manual intervention. For example, public computers can be left on over the weekend, allowing the scheduled task to reboot the computer, apply updates, and then power off the system, ready for use on the next workday.
 
 ### 5. Remote Management and Security Enhancements
-- **Remote Launch:** Allows administrators to launch applications on selected computers directly from the Console or even push executables and launch them remotely.
+- **[Remote Launch:](./Remote-Launch.md)** Allows administrators to launch applications on selected computers directly from the Console or even push executables and launch them remotely.
 - **MBR Protection:** Provides enhanced security by protecting the Master Boot Record from rootkit injections and other alterations.
 
 ## How Deep Freeze Works
