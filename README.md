@@ -47,7 +47,7 @@ In the Workstations pane, the status of each workstation is clearly indicated as
 
 ### 3. Performing Common Tasks
 - **[Reboot Thawed/Frozen:](./Frozen-Thawed.md)** Allows administrators to thaw a workstation to perform updates or install new software and then refreeze it for public use.
-- **Run Windows Update:** Manually initiates a Windows Update session. The system must be thawed to start the update, and it will automatically refreeze after the update is complete.
+- **[Run Windows Update:](./Windows-Updates.md)** Manually initiates a Windows Update session and it will automatically refreeze after the update is complete.
 - **[Update Deep Freeze Clients:](./Upgrade.md)** Pushes updates from the Deep Freeze Console to connected workstations. This process involves multiple reboots(Usually 2) but ensures that all systems are running the latest version of Deep Freeze.
 
 ### 4. Handling Version Mismatches
