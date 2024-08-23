@@ -52,13 +52,10 @@ In the Workstations pane, the status of each workstation is clearly indicated as
 - **[Run Windows Update:](./Windows-Updates.md)** Manually initiates a Windows Update session and it will automatically refreeze after the update is complete.
 - **[Update Deep Freeze Clients:](./Upgrade.md)** Pushes updates from the Deep Freeze Console to connected workstations. This process involves multiple reboots(Usually 2) but ensures that all systems are running the latest version of Deep Freeze.
 
-### 4. Handling Version Mismatches
-If there’s a version mismatch between the Deep Freeze Console and the clients, administrators can use the Update icon to push the latest version to the workstations. This ensures compatibility and access to all Console features.
-
-### 5. Automating Maintenance Tasks
+### 4. Automating Maintenance Tasks
 Deep Freeze can automate routine maintenance tasks, including Windows Updates. These tasks can be scheduled to run at specified times, reducing the need for manual intervention. For example, public computers can be left on over the weekend, allowing the scheduled task to reboot the computer, apply updates, and then power off the system, ready for use on the next workday.
 
-### 6. Remote Management and Security Enhancements
+### 5. Remote Management and Security Enhancements
 - **Remote Launch:** Allows administrators to launch applications on selected computers directly from the Console or even push executables and launch them remotely.
 - **MBR Protection:** Provides enhanced security by protecting the Master Boot Record from rootkit injections and other alterations.
 
