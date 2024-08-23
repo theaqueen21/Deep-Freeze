@@ -46,7 +46,7 @@ The Deep Freeze Console interface includes the following key components:
 In the Workstations pane, the status of each workstation is clearly indicated as either Frozen (ready for public use) or Thawed (ready for updates or changes). The Version column shows the Deep Freeze version installed, and any version mismatch between the Console and the workstation is highlighted in red. This visual cue helps administrators quickly identify and resolve potential issues.
 
 ### 3. Performing Common Tasks
-- **Reboot Thawed/Frozen:** Allows administrators to thaw a workstation to perform updates or install new software and then refreeze it for public use.
+- **[Reboot Thawed/Frozen:](./Frozen-Thawed.md)** Allows administrators to thaw a workstation to perform updates or install new software and then refreeze it for public use.
 - **Run Windows Update:** Manually initiates a Windows Update session. The system must be thawed to start the update, and it will automatically refreeze after the update is complete.
 - **[Update Deep Freeze Clients:](./Upgrade.md)** Pushes updates from the Deep Freeze Console to connected workstations. This process involves multiple reboots but ensures that all systems are running the latest version of Deep Freeze.
 
