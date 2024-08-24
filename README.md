@@ -64,6 +64,8 @@ Deep Freeze can automate routine maintenance tasks, including Windows Updates. T
 
 Deep Freeze uses patented technology that redirects information being written to the hard drive to an allocation table, leaving the original data intact. When the computer restarts, the allocation table is discarded, restoring the computer to its original state, down to the last byte. This technology ensures that the system is always returned to its desired configuration, regardless of what happens during a session.
 
+![Patent](https://github.com/user-attachments/assets/eb3c7cc6-e751-4590-86c5-e2a588b52fdf)
+
 ## Supported Platforms
 
 Deep Freeze is compatible with both Windows and Mac operating systems. Supported platforms include:
