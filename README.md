@@ -29,7 +29,7 @@ Deep Freeze offers cloud-based management, allowing administrators to deploy, co
 ThawSpace is a feature that allows administrators to create virtual partitions on a frozen drive, enabling users to save work or important data that persists even after a reboot. This is particularly useful in environments where users need to retain data across sessions.
 
 ### 8. Power Management Integration
-Deep Freeze integrates with power management tools, allowing administrators to schedule shutdowns, restarts, and Wake-on-LAN actions either on-demand or on a scheduled basis.
+Deep Freeze integrates with power management tools, allowing administrators to schedule shutdowns, restarts, and [Wake-on-LAN](./Wake-On-LAN.md) actions either on-demand or on a scheduled basis.
 
 ### 9. Windows Update Management
 Deep Freeze simplifies the management of Windows Updates by allowing updates to be downloaded and installed even when the system is in a frozen state. Administrators can schedule maintenance windows for these updates, ensuring that systems remain up-to-date without compromising the frozen configuration.
