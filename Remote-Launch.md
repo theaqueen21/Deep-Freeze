@@ -24,5 +24,5 @@ All these powerful features are accessible through the **Actions Pane** in the T
 3. From here, you can select from a range of remote actions including Remote Execution, MSI installation, and RDC.
 4. To create a custom action, choose the appropriate option and define your custom script or command.
 
-![Remote-Tasks](https://github.com/user-attachments/assets/5bb6861f-e00f-427a-9eda-e842ff1f4644)
+![Remote-Tasks](https://github.com/user-attachments/assets/3313cb66-cb06-4a49-ad04-5878f9739892)
 
