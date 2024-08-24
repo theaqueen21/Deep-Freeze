@@ -51,7 +51,7 @@ In the Workstations pane, the status of each workstation is clearly indicated as
 - **[Reboot Thawed/Frozen:](./Frozen-Thawed.md)** Allows administrators to thaw a workstation to perform updates or install new software and then refreeze it for public use.
 - **[Run Windows Update:](./Windows-Updates.md)** Manually initiates a Windows Update session and it will automatically refreeze after the update is complete.
 - **[Update Deep Freeze Clients:](./Upgrade.md)** Pushes updates from the Deep Freeze Console to connected workstations. This process involves multiple reboots(Usually 2) but ensures that all systems are running the latest version of Deep Freeze.
-- **Formatting/Deleting The ThawSpace**: Managing the ThawSpace is an important task for administrators, especially when you need to clear or repurpose the space.
+- **[Managing the ThawSpace:](./Formatting-Deleting-The-ThawSpace.md)** Managing the ThawSpace is an important task for administrators, especially when you need to clear or repurpose the space.
 
 ### 4. Automating Maintenance Tasks
 Deep Freeze can automate routine maintenance tasks, including Windows Updates. These tasks can be scheduled to run at specified times, reducing the need for manual intervention. For example, public computers can be left on over the weekend, allowing the scheduled task to reboot the computer, apply updates, and then power off the system, ready for use on the next workday.
