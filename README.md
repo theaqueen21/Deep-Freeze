@@ -58,7 +58,7 @@ Deep Freeze can automate routine maintenance tasks, including Windows Updates. T
 
 > **Important Note:** The Windows Update Maintenance task was initially configured to execute periodically at 12 AM, specifically targeting times when the client PCs were idle and not in active use. This scheduling was intended to ensure minimal disruption to users while keeping the systems up-to-date. However, over the course of more than a month, it became evident that the task was not functioning as intended. Despite the configuration settings, the updates were not being applied consistently or reliably during the designated maintenance window.This prolonged period of malfunction highlights a significant issue with the Auto Maintenance Feature in its current form. Our testing experience suggests that this feature cannot be relied upon to manage Windows Updates effectively. The inconsistency in execution undermines the primary goal of maintaining system security and performance through timely updates. As a result, alternative methods or additional configurations may be necessary to ensure that updates are applied as required without user intervention.
 
-![Tasks](https://github.com/user-attachments/assets/f62ba3a5-a7ce-44d9-b858-34428d725eef)
+![Tasks](https://github.com/user-attachments/assets/a359fa81-1235-48cf-9f8a-67e0ca49ee1f)
 
 ### 5. Remote Management and Security Enhancements
 - **[Remote Launch:](./Remote-Launch.md)** Allows administrators to launch applications on selected computers directly from the Console or even push executables and launch them remotely.
@@ -69,6 +69,7 @@ Deep Freeze can automate routine maintenance tasks, including Windows Updates. T
 Deep Freeze uses patented technology that redirects information being written to the hard drive to an allocation table, leaving the original data intact. When the computer restarts, the allocation table is discarded, restoring the computer to its original state, down to the last byte. This technology ensures that the system is always returned to its desired configuration, regardless of what happens during a session.
 
 ![Patent](https://github.com/user-attachments/assets/eb3c7cc6-e751-4590-86c5-e2a588b52fdf)
+> Source: [Deep Freeze Brochure](https://www.faronics.com/assets/DeepFreeze.pdf)
 
 ## Supported Platforms
 
@@ -95,8 +96,14 @@ Deep Freeze is compatible with both Windows and Mac operating systems. Supported
   - macOS Ventura 13
   - macOS Sonoma 14
 
+> Source: [Deep Freeze Documentation](https://www.deepfreeze.com/webhelp/DFWC/DFWC_EN/index.html#page/EN/Chapter_EN.1.013.html)
+
+## Sitation
+> The Sitation mentioned was used as a reference, all of the content in this article(except for those with sources sited) is original and does not violate any copyright laws.
+- [Deep Freeze Manual](https://www.faronics.com/assets/DFE_Manual.pdf)
+
 ## Conclusion
 
 Deep Freeze is an indispensable tool for IT administrators tasked with managing and protecting public or shared computers. By ensuring that every reboot restores the system to its original state, Deep Freeze reduces IT costs, increases productivity, and enhances security. Its features, including cloud management, ThawSpace, and comprehensive Windows Update management, make it a versatile solution for a wide range of environments.
 
-For more information and to see how Deep Freeze can benefit your organization, visit [Faronics](https://www.faronics.com).
+For more information and to see how Deep Freeze can benefit your organization, visit [Faronics Deep Freeze](https://www.faronics.com/products/deep-freeze/enterprise).
