@@ -8,7 +8,7 @@ When managing public computers using the Deep Freeze Console, you might encounte
 ### Fully Upgraded Version
 
 When all workstations have a matching version with the Console, the version number will be displayed in standard text, and no red highlighting will appear. This indicates that the workstation is fully updated and compatible with the current version of the Deep Freeze Console.
-- ![Licensed Look](https://github.com/user-attachments/assets/7f9b5175-a308-4f2f-a77e-66cb6772cc4d)
+![Licensed Look](https://github.com/user-attachments/assets/65369e47-06ad-49f1-a037-d0e32cb1a3ff)
 
 
 ### Updating the Client Version
