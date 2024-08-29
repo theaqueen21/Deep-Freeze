@@ -10,6 +10,6 @@ To wake a device using the Wake-on-LAN feature, follow these steps:
 3. Click on the **Wake-on-LAN** icon in the Toolbar or use the **Clock** icon to schedule a wake-up action.
 4. Ensure that the network adapter on the remote device supports Wake-on-LAN functionality for this action to work.
 
-![Wake-On-LAN](https://github.com/user-attachments/assets/39d8ecc7-0885-4594-ad73-37169b95f7ce)
+![Wake-On-LAN](https://github.com/user-attachments/assets/48f06b9c-669f-41dd-aa55-d3d593b152e0)
 
 > **Note:** The effectiveness of the Wake-on-LAN feature depends on the network adapter and its configuration on the remote device. Ensure that WoL is enabled in the device's BIOS/UEFI settings and supported by the network infrastructure.
