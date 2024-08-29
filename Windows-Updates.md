@@ -17,7 +17,7 @@ When you initiate a Windows Update remotely through the Deep Freeze Console, the
 4. Confirm that the device is Thawed, and the update process will begin.
 5. Once the update is completed, the device will automatically Refreeze.
 
-![Windows Update](https://github.com/user-attachments/assets/3eb5d834-3c01-4184-abd5-d12303809c17)
+![Windows Update](https://github.com/user-attachments/assets/3e2ae5e6-4182-40ac-9c76-6e3899b990d6)
 
 
 #### Method 2: Using the Toolbar
@@ -27,7 +27,7 @@ When you initiate a Windows Update remotely through the Deep Freeze Console, the
 4. Confirm that the device is Thawed, and the update process will begin.
 5. The device will automatically Refreeze after the updates are installed.
 
-![Windows Update2](https://github.com/user-attachments/assets/edcebea5-ba42-4084-b63b-0a31792c69e6)
+![Windows Update2](https://github.com/user-attachments/assets/4b8aa770-0d6e-4a76-b696-01abc8b94cde)
 
 
 This remote update feature helps maintain security and functionality across all managed devices, but manual intervention may be necessary for devices that have not been updated in a long time.
