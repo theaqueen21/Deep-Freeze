@@ -56,6 +56,8 @@ In the Workstations pane, the status of each workstation is clearly indicated as
 ### 4. Automating Maintenance Tasks
 Deep Freeze can automate routine maintenance tasks, including Windows Updates. These tasks can be scheduled to run at specified times, reducing the need for manual intervention. For example, public computers can be left on over the weekend, allowing the scheduled task to reboot the computer, apply updates, and then power off the system, ready for use on the next workday.
 
+> **Important Note:** The Windows Update Maintenance task was initially configured to execute periodically at 12 AM, specifically targeting times when the client PCs were idle and not in active use. This scheduling was intended to ensure minimal disruption to users while keeping the systems up-to-date. However, over the course of more than a month, it became evident that the task was not functioning as intended. Despite the configuration settings, the updates were not being applied consistently or reliably during the designated maintenance window.This prolonged period of malfunction highlights a significant issue with the Auto Maintenance Feature in its current form. Our testing experience suggests that this feature cannot be relied upon to manage Windows Updates effectively. The inconsistency in execution undermines the primary goal of maintaining system security and performance through timely updates. As a result, alternative methods or additional configurations may be necessary to ensure that updates are applied as required without user intervention.
+
 ![Tasks](https://github.com/user-attachments/assets/f62ba3a5-a7ce-44d9-b858-34428d725eef)
 
 ### 5. Remote Management and Security Enhancements
