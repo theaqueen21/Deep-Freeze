@@ -16,7 +16,7 @@ To format or delete the ThawSpace, follow these steps:
 4. Choose **Format ThawSpace** to erase the data while keeping the ThawSpace intact.
 5. Alternatively, select **Delete ThawSpace** to remove the ThawSpace entirely from the system.
 
-![ThawSpace](https://github.com/user-attachments/assets/65d8b69a-0092-4c95-844e-9969fbc43f25)
+![ThawSpace](https://github.com/user-attachments/assets/80d3233b-dd5e-458a-9036-5bcbdca8c58c)
 
 > **Warning:** Formatting or Deleting the ThawSpace will permanently remove all data stored within it. Ensure that any important data is backed up before proceeding with this action.
 
