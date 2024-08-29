@@ -15,7 +15,4 @@ To reboot a device in either Frozen or Thawed mode:
 2. Right-click on the desired device in the configuration list.
 3. Select either **Reboot Frozen** or **Reboot Thawed** from the context menu, depending on the action you want to take.
 
-![Reboot Thawed-Frozen](https://github.com/user-attachments/assets/70929463-9423-4321-aac2-512732524f1f)
-
-
-
+![Reboot Thawed-Frozen](https://github.com/user-attachments/assets/ae163277-7486-41c9-81b8-65c878eeebca)
